@@ -1,0 +1,21 @@
+
+
+.gallery {
+  display: flex;
+  width: 1440 px;
+  height: 696 px;
+  padding: 0;
+  margin: 0;
+  gap: 10px;
+}
+
+
+
+
+
+.gallery-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  
+  
